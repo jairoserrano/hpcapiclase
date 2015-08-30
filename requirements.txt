@@ -1,0 +1,8 @@
+Django==1.8.4
+django-auth-ldap==1.2.6
+django-filter==0.11.0
+django-ldap-basic-auth==0.0.4
+djangorestframework==3.2.3
+Markdown==2.6.2
+python-ldap==2.4.20
+wheel==0.24.0
